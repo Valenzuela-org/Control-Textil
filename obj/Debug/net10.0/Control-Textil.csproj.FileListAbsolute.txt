@@ -1,0 +1,15 @@
+D:\Proyectos\C#\Control-Textil\bin\Debug\net10.0\Control-Textil.exe
+D:\Proyectos\C#\Control-Textil\bin\Debug\net10.0\Control-Textil.deps.json
+D:\Proyectos\C#\Control-Textil\bin\Debug\net10.0\Control-Textil.runtimeconfig.json
+D:\Proyectos\C#\Control-Textil\bin\Debug\net10.0\Control-Textil.dll
+D:\Proyectos\C#\Control-Textil\bin\Debug\net10.0\Control-Textil.pdb
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\Control-Textil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\Control-Textil.AssemblyInfoInputs.cache
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\Control-Textil.AssemblyInfo.cs
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\Control-Textil.csproj.CoreCompileInputs.cache
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\Control-Textil.sourcelink.json
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\Control-Textil.dll
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\refint\Control-Textil.dll
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\Control-Textil.pdb
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\Control-Textil.genruntimeconfig.cache
+D:\Proyectos\C#\Control-Textil\obj\Debug\net10.0\ref\Control-Textil.dll
